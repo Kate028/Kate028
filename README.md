@@ -3,17 +3,17 @@
 
 #### About
 
-##### -  🌿  I’m currently working on - Python and Contributing to open source
+##### -  🌿  I’m currently working on - Python and Contributing to open source.
 
-##### -  🌱  I’m currently learning - Python, ML
+##### -  🌱  I’m currently learning - Python libraries and Data Visualization tools.
 
 ##### -  🍃  Always open to talk on - Meditation techniques, Spirituality, Space and astronomy!
 
-##### -  🍀  How to reach me: - [LinkedIn](https://www.linkedin.com/in/Kate028/)
+##### -  🍀  Reach me on - [LinkedIn](https://www.linkedin.com/in/Kate028/)
 
-##### -  🍂  Drop a mail: [kritikaranjan28@gmail.com](kritikaranjan28@gmail.com)
+##### -  🍂  Drop me an [e-mail](kritikaranjan28@gmail.com)
 
-##### -  🌸  Hobbies - Coding💻 ,  listening to eng song ,  playing chess,  meditation
+##### -  🌸  Hobbies - Coding , Playing Chess,  Meditation
 
 ##### -  🍁  Pronouns - She/Her
 
