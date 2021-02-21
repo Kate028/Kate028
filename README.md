@@ -7,7 +7,7 @@
 
 ##### -  🌱  I’m currently learning - Python libraries and Data Visualization tools.
 
-##### -  🍃  Always open to talk on - Meditation techniques, Spirituality, Space and astronomy!
+##### -  🍃  Open for discussion on - Meditation techniques, Spirituality, Space and astronomy!
 
 ##### -  🍀  Reach me on - [LinkedIn](https://www.linkedin.com/in/Kate028/)
 
