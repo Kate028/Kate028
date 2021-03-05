@@ -7,13 +7,13 @@
 
 #### -  🌱  I’m currently learning: Python libraries, Web Scrapping and Data Visualization tools.
 
-#### -  🍃  Open for discussion on: Meditation techniques, Spirituality, Space and astronomy!
+#### -  🍃  Open for discussion on: Meditation techniques, Spirituality, Astronomy, Space and Technology!
 
 #### -  🍀  Reach me out on [LinkedIn](https://www.linkedin.com/in/Kate028/)
 
 #### -  🍂  Drop me an [e-mail](kritikaranjan28@gmail.com)
 
-#### -  🌸  Hobbies: Coding, Playing Chess,  Meditation
+#### -  🌸  Hobbies: Coding, Playing Chess,  Meditation, i love putting my thoughts and experiences into words.
 
 #### -  🍁  Pronouns: She/Her
 
