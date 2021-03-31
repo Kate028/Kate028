@@ -5,7 +5,7 @@
 
 #### -  🌿  I’m currently working on: Python projects and Contributing to open source.
 
-#### -  🌱  I’m currently learning: Python libraries, Web Scrapping and Data Visualization tools.
+#### -  🌱  I’m currently learning: Python.
 
 #### -  🍁  Open for discussion on: Meditation techniques, Spirituality, Astronomy, Science and Technology!
 
