@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
-  <img align="center" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="150px" width="230px" > 
+  <img align="center" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="350px" width="430px" > 
   </a>
 </p>
 
