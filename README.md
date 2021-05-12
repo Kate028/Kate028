@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
-  <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="200px" width="350px" > 
+  <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="220px" width="350px" > 
   </a>
 </p>
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
 [![Twitter: Kate028](https://img.shields.io/twitter/follow/Kate028?style=social)](https://twitter.com/Kate028_)
