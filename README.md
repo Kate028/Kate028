@@ -31,3 +31,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 <br>
+
+
+<p align="center"> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kate028&theme=dark" alt="Kate" /> 
+
+</p>
