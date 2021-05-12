@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
-  <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="200px" width="300px" > 
+  <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="200px" width="350px" > 
   </a>
 </p>
 
