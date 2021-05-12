@@ -16,10 +16,6 @@
 #### -  🌸  Hobbies: Coding, Playing Chess,  Meditation.
 
 
-[![Kritika's github stats](https://github-readme-stats.vercel.app/api?username=Kate028&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)](https://github.com/Kate028/repositories)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
-
 
  <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=Kate028&theme=github" >
@@ -37,3 +33,7 @@
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kate028&theme=dark" alt="Kate" /> 
 
 </p>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
+
