@@ -18,10 +18,11 @@
 
 #### -  🌱  I’m currently learning: Python, ML.
 
-#### -  🍁  Open for discussion on: Meditation techniques, Spirituality, Science and Technology!
+#### -  🍁  Open for discussion on: Spirituality, Science & Technology.
 
 #### -  🌸  Hobbies: Playing Chess, Meditation.
 
+<br>
 
 <p align="center"> 
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kate028&theme=dark" alt="Kate" /> 
