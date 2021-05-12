@@ -1,4 +1,4 @@
-## Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there I am Kritika Ranjan, an Open Source Enthusiast and a Pythonista! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
@@ -12,17 +12,14 @@
 [![Linkedin: Kate028](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kate028/)](https://www.linkedin.com/in/Kate028/)
 
 
-#### -  🌿  I’m currently working on: Python projects and Contributing to open source.
+#### -  🌿  I’m currently working on: Python projects
 
 #### -  🌱  I’m currently learning: Python, ML.
 
-#### -  🍁  Open for discussion on: Meditation techniques, Spirituality, Astronomy, Science and Technology!
+#### -  🍁  Open for discussion on: Meditation techniques, Spirituality, Science and Technology!
 
-#### -  🌸  Hobbies: Coding, Playing Chess, Meditation.
+#### -  🌸  Hobbies: Playing Chess, Meditation.
 
-
-
- 
 
 <p align="center"> 
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kate028&theme=dark" alt="Kate" /> 
