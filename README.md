@@ -6,9 +6,10 @@
   </a>
 </p>
 
-![Total Views](https://views.whatilearened.today/views/github/Kate028/Kate028.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
 [![Twitter: Kate028](https://img.shields.io/twitter/follow/Kate028?style=social)](https://twitter.com/Kate028_)
-[![Linkedin: Kate028](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/kate028/)
+[![Linkedin: Kate028](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kate028/)](https://www.linkedin.com/in/kate028/)
 
 
 #### About
