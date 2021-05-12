@@ -29,13 +29,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/>&nbsp; 
 </p>	
-<br>
-<p align="center"> 
-  <img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="Kate028" />&nbsp;
 
-   <img align="center" width= "400" height= "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages" />
+<p align="center"> 
+  <img align="left" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="Kate028" />&nbsp;
+
+   <img align="right" width= "400" height= "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages" />
 </p>
-<br>
+
 
 <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=Kate028&theme=github" >
