@@ -24,10 +24,10 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/></p>
 
 <p align="center">
-<img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="Kate028" /> </p>
+<img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="kate028" /> </p>
 
 <p align="center">
 <img align="center" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages"/> 
