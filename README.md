@@ -19,3 +19,15 @@
 [![Kritika's github stats](https://github-readme-stats.vercel.app/api?username=Kate028&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)](https://github.com/Kate028/repositories)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
+
+
+ <p align="center">
+  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=Kate028&theme=github" >
+ </p>   
+</details>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+<br>
