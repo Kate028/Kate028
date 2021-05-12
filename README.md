@@ -10,7 +10,7 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
-[![Twitter](https://twitter/url?url=https%3A%2F%2Fshields.io)](https://twitter.com/Kate028_)
+[![Twitter: Kate028](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKate028_)](https://twitter.com/Kate028_)
 [![Linkedin](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kate028/)](https://www.linkedin.com/in/Kate028/)
 
 	
