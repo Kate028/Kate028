@@ -1,11 +1,14 @@
 ## Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
   <img align="center" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="200px" width="300px" > 
   </a>
 </p>
+
+![Total Views](https://views.whatilearened.today/views/github/Kate028/Kate028.svg)
+[![Twitter: Kate028](https://img.shields.io/twitter/follow/HastagAB?style=social)](https://twitter.com/Kate028_)
+[![Linkedin: Kate028](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/kate028/)
 
 
 #### About
