@@ -2,7 +2,6 @@
 
 <br>
 
-
 <p align="center">
   <a href="https://suubh.github.io/Kate028/index.html">
   <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="220px" width="350px" > 
@@ -26,15 +25,15 @@
 <br>
 
 <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kate028&theme=dark" alt="Kate028" /> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="Kate028" /> 
 </p>
-
 <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/>&nbsp; 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
+<br>
 
 <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=Kate028&theme=github" >
