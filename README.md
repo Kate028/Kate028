@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kate028&show_icons=true&theme=tokyonight" alt="My github stats" width="420"/>&nbsp;
 
 <img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=kate028&theme=tokyonight" alt="Kate028" />
 
