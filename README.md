@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=Kate028&theme=github" >
+<img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=kate028&theme=github" >
 </p>   
 </details>
 
