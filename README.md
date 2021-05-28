@@ -33,10 +33,7 @@
 <img align="center" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate028&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
 
-<p align="center">
-<img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=kate028&theme=github" >
-</p>   
-</details>
+ 
 
 
 
