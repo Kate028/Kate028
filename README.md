@@ -11,8 +11,6 @@
 [![Twitter: Kate028](https://img.shields.io/twitter/follow/Kate028_?style=social)](https://twitter.com/Kate028_)
 [![Linkedin](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kate028/)](https://www.linkedin.com/in/Kate028/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sta2k.visitor-badge)
-
 #### -  🌿  I’m currently working on: Web Development.
 
 #### -  🌱  I’m currently learning: HTML, CSS, JavaScript, and DSA.
