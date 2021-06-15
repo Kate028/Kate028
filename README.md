@@ -13,13 +13,13 @@
 
 	
 
-#### -  🌿  I’m currently working on: Python projects
+#### -  🌿  I’m currently working on: Web Development.
 
-#### -  🌱  I’m currently learning: Python, ML.
+#### -  🌱  I’m currently learning: HTML, CSS, JavaScript, and DSA.
 
-#### -  🍁  Open for discussion on: Spirituality, Science & Technology.
+#### -  🍁  Open for discussion on: Project Ideas.
 
-#### -  🌸  Hobbies: Playing Chess, Meditation.
+#### -  🌸  Hobbies: Playing Chess, Meditation, Reading books.
 
 <br>
 
