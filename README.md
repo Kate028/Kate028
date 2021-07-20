@@ -19,6 +19,12 @@
 
 #### -  🌸  Hobbies: Playing Chess, Meditation, Reading books.
 
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 <br>
 
 <p align="center">
