@@ -11,11 +11,11 @@
 [![Twitter: Kate028](https://img.shields.io/twitter/follow/Kate028_?style=social)](https://twitter.com/Kate028_)
 [![Linkedin](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kate028/)](https://www.linkedin.com/in/Kate028/)
 
-#### -  🌿  I’m currently working on: Web Development.
+#### -  🌿  I’m currently working on: Python Projects.
 
-#### -  🌱  I’m currently learning: HTML, CSS, JavaScript, and DSA.
+#### -  🌱  I’m currently learning: Web Dev, ML and DSA.
 
-#### -  🍁  Open for discussion on: Project Ideas.
+#### -  🍁  Open for discussion on: Anything about tech.
 
 #### -  🌸  Hobbies: Playing Chess, Meditation, Reading books.
 
