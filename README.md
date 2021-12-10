@@ -13,7 +13,7 @@
 
 #### -  🌿  I’m currently working on: Python Projects.
 
-#### -  🌱  I’m currently learning: Web Dev, ML and DSA.
+#### -  🌱  I’m currently learning: Data Analysis.
 
 #### -  🍁  Open for discussion on: Anything about tech.
 
