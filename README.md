@@ -36,7 +36,7 @@
 
 <br><br><br>
 <p align="center">
-  <img src="https://github.com/Kate028/Kate028/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+  <img src="https://github.com/Kate028/Kate028/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
