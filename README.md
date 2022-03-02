@@ -20,6 +20,12 @@
 #### -  🌸  Hobbies: Playing Chess, Meditation, Reading books.
 
 <br>
+<p align="center">
+  <img src="https://github.com/kate028/kate028/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kate028&show_icons=true&theme=tokyonight" alt="My github stats" height="150"/></p>
