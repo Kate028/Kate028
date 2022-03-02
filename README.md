@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Kate028/Kate028/blob/main/.github/workflows/snake.yml" alt="snake"></center>
+  <img src=".github/workflows/snake.yml" alt="snake"></center>
 </p>
 
 
