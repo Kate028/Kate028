@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/kate028/kate028/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Kate028/Kate028/blob/main/snake.yml" alt="snake"></center>
 </p>
 
 
