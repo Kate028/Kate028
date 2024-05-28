@@ -1,6 +1,6 @@
 <!-- ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"> -->
 
-## Hey there, I am Kritika Ranjan, an Open Source Enthusiast and a Pythonista! 
+## Hey there, I am Kritika Ranjan, a Business Analyst making time for Upskilling! 
 
 <br>
 
